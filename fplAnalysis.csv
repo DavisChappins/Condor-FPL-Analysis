@@ -1,0 +1,62 @@
+,File 1,File 2,File 3,File 4,File 5,File 6,File 7
+Task_ , , , , , , , 
+Task_Name,US Soaring Q4 2023 Oct Nov Dec-Competition day 20-_CC,US Soaring Q4 2023 Oct Nov Dec-Competition day 21-_CC,US Soaring Q4 2023 Oct Nov Dec-Competition day 22-_CC,US Soaring Q4 2023 Oct Nov Dec-Competition day 23-_CC_v2,US Soaring Q4 2023 Oct Nov Dec-Competition day 24-_CC_v2,US Soaring Q4 2023 Oct Nov Dec-Competition day 25-_CC,US Soaring Q4 2023 Oct Nov Dec-Competition day 26-_CC
+Task_Landscape,AA2,AA2,AA2,AA2,AA2,AA2,AA2
+Task_Timing,6/21/2023,6/21/2023,6/21/2023,6/21/2023,6/21/2023,6/21/2023,6/21/2023
+Task_Plane class,15-meter,15-meter,15-meter,15-meter,15-meter,15-meter,15-meter
+Task_Race in,1,1,1,1,1,1,1
+Task_Time window,10,10,10,10,10,10,10
+Task_Start time [hours],13,13,13,13,13,13,13
+Task_Legs,3,3,3,2,5,3,3
+Task_Takeoff,Bergamo,Bergamo,Bergamo,Bergamo,Bergamo,Bergamo,Bergamo
+Task_Start height,4921 ft,4921 ft,4921 ft,4921 ft,4921 ft,4921 ft,4921 ft
+Task_Cloud base above start height,1230 ft,1230 ft,1230 ft,1230 ft,1230 ft,1230 ft,1230 ft
+Task_Task distance,102.4 nm,108.4 nm,106.5 nm,94.8 nm,123.5 nm,98.0 nm,109.5 nm
+Task_Task legs,3,3,3,2,5,3,3
+Wind_ , , , , , , , 
+Wind_Direction,169,228,34,222,258,257,257
+Wind_Direction variation,Low,Low,Low,Low,Low,Low,Low
+Wind_Speed,6 kts,9 kts,5 kts,8 kts,14 kts,5 kts,5 kts
+Wind_Variation,Low,Low,Low,Low,Low,Low,Low
+Wind_Turbulence,Light,Light,Light,Light,Light,Light,Light
+Thermals_ , , , , , , , 
+Thermals_Cloud base,5748 ft,5748 ft,5748 ft,5748 ft,5748 ft,5748 ft,5748 ft
+Thermals_Cloud base variation,Medium,Low,Low,High,High,Medium,Medium
+Thermals_Inversion height,8940 ft,8940 ft,8940 ft,5557 ft,10478 ft,6111 ft,6111 ft
+Thermals_Cloud depth,3192 ft,3192 ft,3192 ft,-191 ft,4730 ft,363 ft,363 ft
+Thermals_Strength,Moderate,Moderate,Moderate,Weak,Strong,Moderate,Strong
+Thermals_Strength variation,High,High,High,High,High,High,High
+Thermals_Width,Wide,Wide,Wide,Very wide,Very wide,Wide,Wide
+Thermals_Width variation,High,High,High,Medium,High,High,High
+Thermals_Activity,High,High,High,High,High,High,High
+Thermals_Turbulence,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate
+Thermals_Flats activity,Normal,Normal,Normal,High,High,Normal,Normal
+Thermals_Streeting,Medium,Medium,Medium,Medium,High,Medium,Medium
+Thermals_Randomize?,No,No,No,No,No,No,No
+Waves_ , , , , , , , 
+Waves_Speed,16 kts,16 kts,16 kts,16 kts,16 kts,16 kts,16 kts
+Waves_Stability,'5/10,'5/10,'5/10,'5/10,'5/10,'5/10,'5/10
+Waves_Moisture,80%,80%,80%,80%,80%,80%,80%
+High clouds_ , , , , , , , 
+High clouds_Coverage,'2/8,'2/8,'2/8,'0/8,'2/8,'2/8,'2/8
+Notam_ , , , , , , , 
+Notam_Start type,Airborne,Airborne,Airborne,Airborne,Airborne,Airborne,Airborne
+Notam_Start height,4921 ft,4921 ft,4921 ft,4921 ft,4921 ft,4921 ft,4921 ft
+Notam_Plane icons range,7 nm,7 nm,7 nm,7 nm,7 nm,7 nm,7 nm
+Notam_Thermal helpers range,0 nm,0 nm,0 nm,0 nm,0 nm,0 nm,0 nm
+Notam_Turnpoint helpers range,16 nm,16 nm,16 nm,16 nm,16 nm,16 nm,16 nm
+Notam_Allow PDA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Notam_Allow realtime scoring,No,No,No,No,No,No,No
+Notam_Allow External View,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Notam_Allow Padlock View,No,No,No,No,No,No,No
+Notam_Allow Smoke,No,No,No,No,No,No,No
+Notam_Allow Plane Recovery,No,No,No,No,No,No,No
+Notam_Allow Height Recovery,No,No,No,No,No,No,No
+Notam_Allow Midair Collision Recovery,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Notam_Cloud flying,'100 p,'100 p,'100 p,'100 p,'100 p,'100 p,'100 p
+Notam_Plane Recovery,'50 p,'50 p,'50 p,'50 p,'50 p,'50 p,'50 p
+Notam_Height Recovery,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p
+Notam_Wrong Window Entrance,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p
+Notam_Window Collision,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p
+Notam_Penalty Zone Entrance,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p
+Notam_Thermal Helpers,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p,'0 p
